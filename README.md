@@ -1,0 +1,3 @@
+# Serverless Web Application Infrastructure
+
+This project aims to design and implement a serverless web application infrastructure using Terraform. The infrastructure will be deployed on AWS and will include a web application that can be accessed by users. The project will be broken down into several tasks, including infrastructure design, implementation, methodology, practices, and Terraform folder structure. The tasks will be further broken down into subtasks and branching tasks to ensure a thorough understanding and execution. The project will be tested on localstack before being deployed to AWS. Finally, the project will be automated using Bitbucket pipelines to deploy the Terraform configurations.
